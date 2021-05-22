@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">FPGA PROJECTS</h3>
+  <h3 align="center">FPGA Projects</h3>
 </p>
 
 <!-- ABOUT THE PROJECT -->
