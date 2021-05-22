@@ -3,7 +3,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## About
+### About
 
 The following repo will contain my last projects in FPGA using the Cyclone IV development board.
 
@@ -16,7 +16,7 @@ If you have any doubt or issue u cand send me an e-mail to: jorge.zambrano@unmsm
 - USB Blaster
 - Codec PMOD I2S2
 
-## Projects
+### Projects
 
 [FIR FILTER](https://github.com/stryBoy/FIRfilter_FPGA)
 
@@ -28,7 +28,7 @@ For compiling and coding in VHDL, its neccesary to download the following progra
 -  Octave or Matlab
 
  
-### Ccontributions
+### Contributions
 
 If you find somehow useful any project don't forget to FORK, so the open source community can increase❤️
 
