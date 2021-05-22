@@ -1,5 +1,3 @@
-# FPGA_Projects
-
 <p align="center">
   <h3 align="center">FPGA PROJECTS</h3>
 </p>
